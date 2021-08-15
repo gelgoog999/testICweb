@@ -1,2 +1,5 @@
 # testICweb
-FleekでWebサイトを作ってみる
+## FleekでWebサイトを作ってみる
+### index.html
+まずはindex.htmlかな？
+
